@@ -18,7 +18,7 @@ This project is an AI-based system designed to analyze and forecast key economic
 ⚙️ Installation
 
 # Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone repo link---
 cd your-repo-name
 Install dependencies:
 pip install -r requirements.txt
