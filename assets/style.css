@@ -1,0 +1,42 @@
+.main-title {
+    font-size: 2.4rem; font-weight: 800;
+    background: linear-gradient(90deg, #1a237e, #0d47a1, #1565c0);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    text-align: center; padding: 1rem 0;
+}
+.subtitle {
+    text-align: center; color: #546e7a;
+    font-size: 1.05rem; margin-bottom: 1.5rem;
+}
+.section-header {
+    background: linear-gradient(90deg, #1a237e, #283593);
+    color: white; padding: 0.6rem 1.2rem;
+    border-radius: 8px; font-size: 1.15rem;
+    font-weight: 700; margin: 1.2rem 0 0.8rem 0;
+}
+.metric-card {
+    background: #f8f9ff; border: 1px solid #c5cae9;
+    border-radius: 10px; padding: 1rem;
+    text-align: center; margin: 0.3rem;
+}
+.metric-value { font-size: 1.6rem; font-weight: 800; color: #1a237e; }
+.metric-label { font-size: 0.85rem; color: #546e7a; margin-top: 0.2rem; }
+.risk-high   { background:#ffebee; border-left:5px solid #c62828; padding:0.8rem; border-radius:6px; margin:0.4rem 0; }
+.risk-medium { background:#fff3e0; border-left:5px solid #e65100; padding:0.8rem; border-radius:6px; margin:0.4rem 0; }
+.risk-low    { background:#e8f5e9; border-left:5px solid #2e7d32; padding:0.8rem; border-radius:6px; margin:0.4rem 0; }
+.stTabs [data-baseweb="tab"] { font-size:1rem; font-weight:600; padding:0.6rem 1.2rem; }
+.info-box {
+    background:#e3f2fd; border:1px solid #90caf9;
+    border-radius:8px; padding:0.8rem 1rem; margin:0.6rem 0;
+    font-size:0.92rem; color:#0d47a1;
+}
+.desc-box {
+    background:#f3f4ff; border:1px solid #c5cae9;
+    border-radius:8px; padding:1rem 1.2rem; margin:0.8rem 0;
+    font-size:0.93rem; color:#1a237e; line-height:1.7;
+}
+.graph-caption {
+    background:#fffde7; border-left:4px solid #f9a825;
+    padding:0.6rem 1rem; border-radius:0 6px 6px 0;
+    font-size:0.9rem; color:#555; margin: 0.4rem 0 1rem 0;
+}
